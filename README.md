@@ -18,7 +18,6 @@
 PDF-RAG-Chatbot Project Structure<br>
 PDF-RAG-Chatbot/<br>
 ├── components/          # Modular components for PDF processing and chatbot functionality<br>
-│   ├── __pycache__/     # Python cache directory<br>
 │   ├── chatbot.py       # Chatbot functionality<br>
 │   ├── pdf_parser.py    # PDF parsing component <br> 
 │   ├── prompt.py        # Prompt engineering component<br>
