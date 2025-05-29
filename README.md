@@ -14,11 +14,12 @@
 ---
 ## Project Structure
 
-PDF-RAG-Chatbot
-<ul>components/ # Modular components for PDF processing and chatbot functionality</ul>
-<ul>app.py # Main application script</ul>
-<ul>req.txt # List of required Python packages</ul>
-<ul>README.md</ul>
+
+PDF-RAG-Chatbot/ <bl>
+├── components/          # Modular components for PDF processing and chatbot functionality<bl>
+├── app.py              # Main application script<bl>
+├── req.txt             # List of required Python packages<bl>
+└── README.md           # Project documentation
 
 
 
