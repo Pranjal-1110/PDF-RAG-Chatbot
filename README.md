@@ -15,8 +15,15 @@
 ## Project Structure
 
 
-PDF-RAG-Chatbot/ <br>
+PDF-RAG-Chatbot Project Structure<br>
+PDF-RAG-Chatbot/<br>
 ├── components/          # Modular components for PDF processing and chatbot functionality<br>
+│   ├── __pycache__/     # Python cache directory<br>
+│   ├── chatbot.py       # Chatbot functionality<br>
+│   ├── pdf_parser.py    # PDF parsing component <br> 
+│   ├── prompt.py        # Prompt engineering component<br>
+│   ├── text_chunker.py  # Text chunking component<br>
+│   └── vectorstore.py   # Vector store management<br>
 ├── app.py              # Main application script<br>
 ├── req.txt             # List of required Python packages<br>
 └── README.md           # Project documentation
