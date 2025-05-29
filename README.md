@@ -12,9 +12,12 @@
 - **User-Friendly Interface**: Interact with the chatbot through a simple and intuitive interface.  
 
 ---
+## 🗂 Project Structure
 
 PDF-RAG-Chatbot/
 ├── components/        # Modular components for PDF processing and chatbot functionality
 ├── app.py             # Main application script
 ├── req.txt            # List of required Python packages
 └── README.md          # Project documentation
+
+
